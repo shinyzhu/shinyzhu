@@ -1,4 +1,17 @@
-### Hi there 👋
+
+<a href="https://github.com/shinyzhu#gh-light-mode-only">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=shinyzhu&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true#gh-light-mode-only" />
+</a>
+
+<a href="https://github.com/shinyzhu#gh-dark-mode-only">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=shinyzhu&show_icons=true&hide_title=true&theme=cobalt#gh-dark-mode-only" />
+</a>
+
+#### Hello, world. 👏
+
+> I'm a Developer Advocate at Neo4j. Full stack developer with .NET and JS. Open source fan. Life-long learner.
+
+👇 Please check out more.
 
 <!--
 **shinyzhu/shinyzhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
