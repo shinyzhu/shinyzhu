@@ -11,7 +11,7 @@
 
 > I'm a Developer Advocate at Neo4j. Full stack developer with .NET and JS. Open source fan. Life-long learner. Procrastinator.
 
-👇 Let me show you the code.
+👇 Let me show you some code.
 
 <!--
 **shinyzhu/shinyzhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
