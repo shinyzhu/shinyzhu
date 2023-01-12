@@ -9,7 +9,7 @@
 
 #### Hello, world. 👏
 
-> I'm a Developer Advocate at Neo4j. Full stack developer with .NET and JS. Open source fan. Life-long learner. Procrastinator.
+> I'm a Developer Advocate and a full stack developer. Also an open-source fan, life-long learner and a procrastinator.
 
 👇 Let me show you some code.
 
