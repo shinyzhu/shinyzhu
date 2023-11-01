@@ -7,11 +7,15 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=shinyzhu&show_icons=true&hide_title=true&theme=cobalt#gh-dark-mode-only" />
 </a>
 
-## Hello, world. 👏
+## 👏 Hello, world.
 
-I'm a Developer Advocate and a full stack developer. Also an open-source fan, life-long learner and a procrastinator.
+I'm a **full stack developer** and a **DevRel** practitioner.
 
-I have many personal blogs and now I'd like to show you only this one: [shinyzhu.com](https://shinyzhu.com).
+I am also an **open-source** fan, **life-long learner** and last but least a **procrastinator**.
+
+You can find content about developer career, DevRel and much more on my blog: [shinyzhu.com](https://shinyzhu.com).
+
+Wanna talk to me? You can book a time here: <https://cal.com/shiny/m>
 
 👇 Let me show you some code here.
 
