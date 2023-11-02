@@ -15,7 +15,7 @@ I am also an **open-source** fan, **life-long learner** and last but least a **p
 
 You can find content about developer career, DevRel and much more on my blog: [shinyzhu.com](https://shinyzhu.com).
 
-Wanna talk to me? You can book a time here: <https://cal.com/shiny/m>
+Wanna talk to me? You can [book a time](https://cal.com/shiny/m).
 
 👇 Let me show you some code here.
 
