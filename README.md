@@ -7,7 +7,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=shinyzhu&show_icons=true&hide_title=true&theme=cobalt#gh-dark-mode-only" />
 </a>
 
-## 👏 Hello, world.
+## 👏 Hello, I'm Shiny.
 
 I'm a **full stack developer** and a **DevRel** practitioner.
 
