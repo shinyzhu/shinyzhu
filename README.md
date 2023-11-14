@@ -23,6 +23,12 @@ You can [book here](https://cal.com/shiny/m) and ask me about anything on comput
 
 ## 👇 Let me show you some code here.
 
+- [shinyzhu.github.io](https://github.com/shinyzhu/shinyzhu.github.io): My recently (hope for keeping) updated blog built with Hugo (without any Node packages).
+- [Neo4j Advocacy Content](https://github.com/shinyzhu/neo4j-advocacy-content): Learning content about Neo4j the graph database when I was working as a Developer Advocate at Neo4j.
+- [Azure Selected](https://github.com/shinyzhu/azureselected): Developer resources localization project when I was working at Microsoft's DevRel team.
+
+Please check out my pinned repos as well.
+
 <!--
 **shinyzhu/shinyzhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
