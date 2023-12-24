@@ -15,7 +15,7 @@
 
 🔭 I’m currently ~~working on~~ trying to find a new role in [#DevRel](https://github.com/topics/devrel).
 
-📫 You can find content about developer career, DevRel and much more on my blog: [👨🏻‍💻 Shiny Zhu](https://shinyzhu.com).
+📫 You can find content about developer career, DevRel and much more on my blog: [Shiny Zhu](https://shinyzhu.com).
 
 💬 Wanna [talk to me](https://cal.com/shiny/m)? Ask me about anything on developer career.
 
