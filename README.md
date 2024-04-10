@@ -10,15 +10,15 @@
 </a>
 
 
-👨🏻‍💻 I'm a **full stack + cycle engineer** and a **DevRel** practitioner.
+👨🏻‍💻 I'm a **full stack engineer & ops** and a **DevRel** practitioner.
 
 👐 I'm also an **open-source** fan, **life-long learner** and last but least a **procrastinator**.
 
-🔭 I’m currently ~~working on~~ trying to find a new role in [#DevRel](https://github.com/topics/devrel).
+🔭 I’m currently a freelancer on community, LLM apps and air travel products consulting.
 
 📫 You can find content about developer career, DevRel and much more on my blog: [Shiny Zhu](https://shinyzhu.com).
 
-💬 Wanna [talk to me](https://cal.com/shiny/m)? Ask me about anything on programming or others.
+💬 Wanna [talk to me](https://cal.com/shiny/m)? Book a time.
 
 ## 👇 Let me show you some code here.
 
@@ -29,7 +29,7 @@
 Please check out my pinned repos as well.
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=shinyzhu&&style=flat-square" align="center" />
+<img src="https://tj.lws.im/telemetry/clnzoxcy10001vy2ohi4obbi0/clut6ntdy003xpo4lgh1n1r8c/badge.svg" align="center" />
 </div>  
 
 <!--
