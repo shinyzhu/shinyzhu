@@ -30,7 +30,7 @@
 Please check out my pinned repos as well.
 
 <div align="center">
-<img src="https://tj.lws.im/telemetry/clnzoxcy10001vy2ohi4obbi0/clut6ntdy003xpo4lgh1n1r8c/badge.svg?title=profile%20views&url=https://github.com/shinyzhu" align="center" />
+<img src="https://tj.lws.im/telemetry/clnzoxcy10001vy2ohi4obbi0/clut6ntdy003xpo4lgh1n1r8c/badge.svg?title=Profile%20Views%20(Since%20April%202024)&url=https://github.com/shinyzhu" align="center" />
 </div>  
 
 <!--
