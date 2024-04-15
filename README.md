@@ -15,7 +15,7 @@
 
 👐 I'm also an **open-source** fan, **life-long learner** and last but least a **procrastinator**.
 
-🔭 Currently I am [#OpenToWork](https://www.linkedin.com/in/shinyzhu/) and providing cosulting on **AI/ML/Data** system designing and building.
+🔭 Currently I am [#OpenToWork](https://www.linkedin.com/in/shinyzhu/) and providing cosulting on **LLM** system designing and building AND **DevRel** strategies.
 
 📫 You can read on my blog: [Shiny Zhu](https://shinyzhu.com).
 
