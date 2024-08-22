@@ -15,11 +15,9 @@
 
 👐 I'm also an **open-source** fan, **life-long learner** and last but least a **procrastinator**.
 
-🔭 Currently I am [#OpenToWork](https://www.linkedin.com/in/shinyzhu/) and providing cosulting on **LLM** system designing and building AND **DevRel** strategies.
+📫 You can read my blog: [Shiny Zhu](https://shinyzhu.com).
 
-📫 You can read on my blog: [Shiny Zhu](https://shinyzhu.com).
-
-💬 [Talk to me](https://cal.com/shiny/m)? This will help you find a time for us to meet.
+💬 You can also [schedule a meeting](https://cal.com/shiny/m) with me.
 
 ## 👇 Let me show you some code here.
 
