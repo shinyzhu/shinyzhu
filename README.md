@@ -27,10 +27,6 @@
 
 Please check out my pinned repos as well.
 
-<div align="center">
-<img src="https://tj.lws.im/telemetry/clnzoxcy10001vy2ohi4obbi0/clut6ntdy003xpo4lgh1n1r8c/badge.svg?title=Profile%20Views&url=https://github.com/shinyzhu" align="center" />
-</div>  
-
 <!--
 **shinyzhu/shinyzhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
